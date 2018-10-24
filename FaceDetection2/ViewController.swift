@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        guard let image = UIImage(named: "sample3") else
+        guard let image = UIImage(named: "sample4") else
         { return }
 
         let imageView = UIImageView(image: image)
